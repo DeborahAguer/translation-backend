@@ -1,0 +1,9 @@
+{
+  "email": "janedoe@example.com",
+  "password": "securepassword123"
+}
+
+{
+    "message": "Login successful",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzQ2MzgxZmU1YTA0MDI2NGIzN2Q5ZmQiLCJ1c2VybmFtZSI6IkphbmVEb2UiLCJpYXQiOjE3MzI2Njc4MjAsImV4cCI6MTczMjY3MTQyMH0.ksEI3EZnET_uSq89PyDm9_mJWe_PhNmAHEm38jJfQ24"
+}
